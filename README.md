@@ -1,5 +1,4 @@
 # AICTE_Summer_Internship_-EDUNET_FOUNDATION-
- EV Vehicle/Charging Demand Prediction Project
 ## 🔌 EV Charging Demand Prediction
 
 **Forecast EV charging demand** using machine learning to optimize station use and support sustainable mobility.
